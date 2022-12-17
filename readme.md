@@ -1,3 +1,6 @@
+User postgres
+password root
+
 Execute dump or script in db
 
 ```
